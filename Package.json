@@ -1,0 +1,13 @@
+{
+  "name": "telegram-ban-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tsx bot.ts"
+  },
+  "dependencies": {
+    "gramio": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
